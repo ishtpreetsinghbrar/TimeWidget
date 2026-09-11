@@ -10,15 +10,15 @@ Sample
 <br>
 Options
 
-You can make TimeWidget.exe start automatically when Windows logs in.
-Method: Startup folder
-Press Win + R.
-Type:    shell:startup
-Press Enter. This opens your personal Startup folder.
-Go to the folder where TimeWidget.exe is located.
-Right-click TimeWidget.exe → Show more options → Create shortcut.
-Move or copy that shortcut into the Startup folder.
-That's it. ✅
+**You can make TimeWidget.exe start automatically when Windows logs in.**
+*Method: Startup folder*
+1. Press Win + R.
+2. Type:    shell:startup
+3. Press Enter. This opens your personal Startup folder.
+4. Go to the folder where TimeWidget.exe is located.
+5. Right-click TimeWidget.exe → Show more options → Create shortcut.
+6. Move or copy that shortcut into the Startup folder.
+   That's it. ✅
 
 
 The widget functionalities are:
