@@ -21,7 +21,7 @@ Options
    That's it. ✅
 
 
-The widget functionalities are:
+**The widget functionalities are:**
 1. Display only the current time in HH:MM.
 2. Text size: 16 px.
 - Each click changes the font size by 2 pixels.
