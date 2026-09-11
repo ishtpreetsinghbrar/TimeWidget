@@ -6,7 +6,7 @@ Simple and Small Time widget with 1Mb~ ram consumption
 Sample
 <br><br>
 
-<img width="325" height="288" alt="image" src="https://github.com/user-attachments/assets/6cd0ca22-5447-4c86-b343-920b5cb47700" />
+<img width="162" height="144" alt="Options" src="https://github.com/user-attachments/assets/6cd0ca22-5447-4c86-b343-920b5cb47700" />
 <br>
 Options
 
