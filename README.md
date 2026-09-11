@@ -2,6 +2,7 @@
 Simple and Small Time widget with 1Mb~ ram consumption
 
 <img width="106" height="62" alt="image" src="https://github.com/user-attachments/assets/99c5ced8-ddd5-4246-bdbb-d9059c39bb13" />
+
 <img width="325" height="288" alt="image" src="https://github.com/user-attachments/assets/6cd0ca22-5447-4c86-b343-920b5cb47700" />
 
 You can make TimeWidget.exe start automatically when Windows logs in.
