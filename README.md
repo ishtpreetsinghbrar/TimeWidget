@@ -3,16 +3,17 @@ Simple and Small Time widget with 1Mb~ ram consumption
 
 [![Download TimeWidget.exe](https://img.shields.io/badge/Download-TimeWidget.exe-yellow?style=for-the-badge&logo=windows)](https://github.com/ishtpreetsinghbrar/TimeWidget/raw/refs/heads/main/TimeWidget.exe)
 <br>
-**Download Link**
+**Download Link ^**
 
 <img width="106" height="62" alt="image" src="https://github.com/user-attachments/assets/99c5ced8-ddd5-4246-bdbb-d9059c39bb13" />
 <br>
-Sample
+Sample ^
 <br><br>
 
 <img width="162" height="144" alt="Options" src="https://github.com/user-attachments/assets/6cd0ca22-5447-4c86-b343-920b5cb47700" />
 <br>
-Options
+Options ^
+<br><br>
 
 **You can make TimeWidget.exe start automatically when Windows logs in.**
 *Method: Startup folder*
