@@ -27,7 +27,7 @@ Options ^
 6. Move or copy that shortcut into the Startup folder.
    That's it. ✅
 
-
+<br>
 **The widget functionalities are:**
 1. Display only the current time in HH:MM.
 2. Text size: 16 px.
@@ -49,4 +49,4 @@ Options ^
 11. The widget is normally click-through so mouse clicks pass through it.
 12. When click-through is disabled and the position is unlocked, the widget can be dragged with the mouse.
 14. Store the position and size in a small config/INI file beside the EXE, keep this file in same folder of the exe file or it generates new .INI file with default settings.
-
+15. Choose 12Hr/24Hr Format accordingly
