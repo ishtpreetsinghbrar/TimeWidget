@@ -28,25 +28,25 @@ Options ^
    That's it. ✅
 
 <br>
-**The widget functionalities are:**
-1. Display only the current time in HH:MM.
-2. Text size: 16 px.
-- Each click changes the font size by 2 pixels.
-- Default font size  16 px.
-- Minimum font size: 10 px.
-- Maximum font size: 48 px.
-4. Dark yellow text.
-5. Black 2 px outline around the numbers.
-6. Approximately 80% total opacity.
-7. Completely transparent background.
-8. Always stay on top.
-9. Uses a system tray icon.
-10. Right-clicking the tray icon provides:
-   - "Increase Font Size" and "Decrease Font Size"
-   - Lock Position
-   - Click Through
-   - Quit
-11. The widget is normally click-through so mouse clicks pass through it.
-12. When click-through is disabled and the position is unlocked, the widget can be dragged with the mouse.
-14. Store the position and size in a small config/INI file beside the EXE, keep this file in same folder of the exe file or it generates new .INI file with default settings.
+**The widget functionalities are:**<br><br>
+1. Display only the current time in HH:MM.<br>
+2. Text size: 16 px.<br>
+- Each click changes the font size by 2 pixels.<br>
+- Default font size  16 px.<br>
+- Minimum font size: 10 px.<br>
+- Maximum font size: 48 px.<br>
+4. Dark yellow text.<br>
+5. Black 2 px outline around the numbers.<br>
+6. Approximately 80% total opacity.<br>
+7. Completely transparent background.<br>
+8. Always stay on top.<br>
+9. Uses a system tray icon.<br>
+10. Right-clicking the tray icon provides:<br>
+   - "Increase Font Size" and "Decrease Font Size"<br>
+   - Lock Position<br>
+   - Click Through<br>
+   - Quit<br>
+11. The widget is normally click-through so mouse clicks pass through it.<br>
+12. When click-through is disabled and the position is unlocked, the widget can be dragged with the mouse.<br>
+14. Store the position and size in a small config/INI file beside the EXE, keep this file in same folder of the exe file or it generates new .INI file with default settings.<br>
 15. Choose 12Hr/24Hr Format accordingly
